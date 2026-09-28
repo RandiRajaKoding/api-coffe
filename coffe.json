@@ -3,18 +3,70 @@
     "id": "1",
     "nama": "Caffè Latte",
     "deskripsi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
-    "foto": "https://link-gambar-caffe-latte-kamu.com/gambar.jpg"
+    "foto": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/caffe_latte_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/caffe_latte_poster.jpg"
   },
   {
     "id": "2",
     "nama": "Cappuccino",
     "deskripsi": "Espresso with steamed milk, topped with a deep layer of foam.",
-    "foto": "https://link-gambar-cappuccino-kamu.com/gambar.jpg"
+    "foto": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/cappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/cappuccino_poster.jpg"
   },
   {
     "id": "3",
     "nama": "Caffè Mocha",
     "deskripsi": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream.",
-    "foto": "https://link-gambar-mocha-kamu.com/gambar.jpg"
+    "foto": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/caffe_mocha_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/caffe_mocha_poster.jpg"
+  },
+  {
+    "id": "4",
+    "nama": "Caramel Macchiato",
+    "deskripsi": "Espresso combined with vanilla-flavored syrup, milk and caramel sauce over ice. A classic and sweet coffee drink.",
+    "foto": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/caramel_macchiato_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/caramel_macchiato_poster.jpg"
+  },
+  {
+    "id": "5",
+    "nama": "Vanilla Sweet Cream Cold Brew",
+    "deskripsi": "Just before serving, our slow-steeped custom blend Cold Brew Coffee is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+    "foto": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/vanilla_sweet_cream_cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/vanilla_sweet_cream_cold_brew_poster.jpg"
+  },
+  {
+    "id": "6",
+    "nama": "Cold Brew",
+    "deskripsi": "Handcrafted in small batches daily, slow-steeped in cool water for 20 hours, without touching heat.",
+    "foto": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/cold_brew_poster.jpg"
+  },
+  {
+    "id": "7",
+    "nama": "Coffee Frappuccino",
+    "deskripsi": "Coffee meets milk and ice in a blender for a rumble-and-tumble togetherness to create one of our most-beloved original Frappuccino blended beverages.",
+    "foto": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/coffee_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/coffee_frappuccino_poster.jpg"
+  },
+  {
+    "id": "8",
+    "nama": "Mocha Frappuccino",
+    "deskripsi": "Mocha sauce, Frappuccino roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
+    "foto": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/mocha_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/mocha_frappuccino_poster.jpg"
+  },
+  {
+    "id": "9",
+    "nama": "Mango Passion Frappuccino",
+    "deskripsi": "A tropical blend of mango and passion fruit, blended with ice for a refreshing and vibrant drink.",
+    "foto": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/mango_passion_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/mango_passion_frappuccino_poster.jpg"
+  },
+  {
+    "id": "10",
+    "nama": "Raspberry Currant Frappuccino",
+    "deskripsi": "A sweet and tart combination of raspberry and currant flavors blended with ice and milk, topped with whipped cream.",
+    "foto": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/raspberry_currant_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/RandiRajaKoding/api-coffe/main/raspberry_currant_frappuccino_poster.jpg"
   }
 ]
